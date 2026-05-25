@@ -18,3 +18,5 @@
 - Procesamiento de imágenes y match con el dataset.
 ## Día 4 - Ejercicio 04
 - Procesamiento de imágenes y match con el dataset.
+## Día 5 - Ejercicio 05
+- Reporte de métricas del nuevo dataset con imágenes.
